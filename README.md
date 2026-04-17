@@ -67,9 +67,8 @@ pip install -r requirements.txt
 Create a `.env` file based on `.env.example`:
 
 ```id="env1"
-AWS_ACCESS_KEY=your_key
-AWS_SECRET_KEY=your_secret
-MODEL_ID=your_model_id
+HB_TOKEN=your_token
+GROQ_API_KEY=your_api_key
 ```
 
 ---
