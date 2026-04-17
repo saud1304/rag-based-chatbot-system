@@ -82,16 +82,7 @@ python agents/agent.py
 
 ---
 
-## 💬 Example Usage
 
-```python id="example1"
-from agents.agent import run_chatbot
-
-response = run_chatbot("What are your support hours?")
-print(response)
-```
-
----
 
 ## 🧪 Use Cases
 
@@ -108,12 +99,6 @@ print(response)
 * ⚡ Reduced manual effort by **30–40%**
 * 🎯 Improved response accuracy using **context-aware retrieval**
 * 🧠 Reduced hallucinations with **RAG architecture**
-
----
-
-## 📸 Demo
-
-*Add screenshots / demo GIF here*
 
 ---
 
